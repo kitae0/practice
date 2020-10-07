@@ -1,17 +1,14 @@
-# 마크다운
-##제목2
-### 제목3
+# 강아지 종류 알아보기
 
+1. 포메라니안   
+![프메라니안](https://cdn.crowdpic.net/list-thumb/thumb_l_520EB332D9BD5427895C8E9B63E0B738.jpg)  
+특징: 하얗다, 작다
 
-_굵게_ __기울기__
+  
+2.골든 리트리버
+![골든 리트리버](https://www.simbata.co.kr/img_src/s600/b311/b3110235.jpg)  
+특징: 연한 갈색빛 털을 가진다, 포메라이안에 비해서 귀여움이 약하다
 
-`강조`
-
-1. 첫 항목
-2. 둘째 항목
-
-+순서 없는 것
-+순서 x
-
-[링크1](https://www.google.com)  
-![강아지](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/QsT/image/NSTeOeMe0MddpqlJ23FZV7hJGvg)
+3.웰시코기
+![웰시코기](https://i.pinimg.com/originals/2f/de/2b/2fde2bcc48a9e38e01c311470adeb5a6.jpg)  
+특징: 여우같은 귀를 가졌다, 다리가 짧다, 귀엽다
