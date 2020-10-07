@@ -6,7 +6,7 @@
 
   
 2. 골든 리트리버    
-![골든리트리버](https://www.simbata.co.kr/img_src/s600/b311/b3110235.jpg)  
+![골든 리트리버](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlmy5JJoglwc5X9JGMxe8qbYACnzw0bNMISA&usqp=CAU.jpg)    
 특징: 연한 갈색빛 털을 가진다, 포메라이안에 비해서 귀여움이 약하다
 
     
